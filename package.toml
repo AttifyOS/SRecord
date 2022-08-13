@@ -1,0 +1,9 @@
+[package_detail]
+name = "srecord"
+description = "The SRecord package is a collection of powerful tools for manipulating EPROM load files"
+version = "1.64"
+source_url = "http://srecord.sourceforge.net/"
+license = "GPL-3.0"
+install_script = "setup.sh"
+install_script_type = "shell"
+
